@@ -1,12 +1,12 @@
-# 🚚 Transportation Optimizer Model
+# Supply Chain Optimization Strategy
 
 This project focuses on optimizing the supply chain of **Velvét Company**, a global leader in cosmetics and personal care, by minimizing transportation costs and improving delivery efficiency.
 
-## 🔍 Project Overview
+## Project Overview
 
 A Company is preparing for the upcoming Black Friday surge while addressing customer complaints about delivery delays. The project aims to streamline product distribution across three main transportation routes to meet demand efficiently and cost-effectively.
 
-## 🛠 Project Objectives
+## Project Objectives
 
 - Minimize total transportation costs  
 - Fulfill demand for all product categories (Cosmetics, Haircare, Skincare)  
@@ -14,7 +14,7 @@ A Company is preparing for the upcoming Black Friday surge while addressing cust
 - Reduce transportation costs by at least 20% compared to current operations  
 - Optimize route utilization to prevent overloading
 
-## 📊 Data Summary
+## Data Summary
 
 - **Routes and Capacities**  
   - Route A: 24,250 units  
@@ -31,14 +31,14 @@ A Company is preparing for the upcoming Black Friday surge while addressing cust
   - Route B: $595.66  
   - Route C: $500.47
 
-## ⚙️ Model and Solution
+## Model and Solution
 
 - Developed a **cost minimization model** considering:  
   - Demand satisfaction constraints  
   - Route capacity constraints  
   - Fair distribution across all routes  
 
-## 📈 Results
+## Results
 
 - Route A handled the majority of the load:
   - 357 tons of cosmetics  
@@ -50,13 +50,13 @@ A Company is preparing for the upcoming Black Friday surge while addressing cust
 
 - **Total transportation cost**: $2,451,241.37
 
-## 💡 Recommendations
+## Recommendations
 
 - Redistribute haircare and skincare products to Routes B and C to reduce dependency on Route A  
 - Optimize underused capacities in Routes B and C for balanced loads and lower costs  
 - Improve resilience and cost-effectiveness by refining route allocations
 
-## 🏁 Conclusion
+## Conclusion
 
 By applying mathematical optimization and data-driven analysis, the project successfully identified cost-saving opportunities and inefficiencies in Velvét Company's supply chain. The optimized solution achieved:
 - Fulfillment of 100% product demand  
